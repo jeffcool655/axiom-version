@@ -1,7 +1,7 @@
 {
-  "latest": "1.01",
-  "disabled": [],
+  "latest": "1.02",
+  "disabled": ["1.01", "1.00"],
   "update_url": "https://discord.com/channels/1467374032268820735/1482847563270066318",
   "discord_invite": "https://discord.gg/bdrE3TCXGc",
-  "message": ""
+  "message": "Please update to v1.02"
 }
